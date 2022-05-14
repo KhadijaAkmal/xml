@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<Hospital id="AP">
+   <patient id="ALI">
+    
+<age> 20</age>
+<disease> fever</disease>
+</patient>
+
+<patient id="SANA">
+
+<age> 27</age>
+<disease> headache</disease>
+</patient>
+
+<patient id="FAWAD">
+<age> 80</age>
+<disease> heart issue</disease>
+   </patient>
+</Hospital>

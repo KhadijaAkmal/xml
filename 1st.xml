@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<world>
+<country id="PAKISTAN">
+    <Continent> Asia </Continent>
+    <PM> Imran Khan</PM>
+    <Population>20,00000</Population>
+    <cptl>ISLAMABAD</cptl>
+    <provinces>4 </provinces>
+    <motherlanguage>Urdu </motherlanguage>
+</country>
+
+<country id="INDIA">
+    <Continent> Asia </Continent>
+    <PM> MODI</PM>
+    <Population>20,0000000 </Population>
+    <cptl>DELHI</cptl>
+    
+    <motherlanguage>HINDI </motherlanguage>
+</country>
+
+</world>
